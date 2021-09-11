@@ -1,0 +1,115 @@
+
+body{
+  text-align:center;
+ 
+}
+#section1{
+  
+  padding:0;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    height:800px;
+        width: 100%;
+    background: linear-gradient(to bottom right,yellow,orange,red,chocolate,brown);
+    color: white;
+}
+img{
+    height:500px;
+    width:800px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+h1{
+    font-size:40px;
+        font-family:cursive;
+font-weight: bold; 
+   
+}
+
+#section2
+{
+    overflow: hidden;
+    
+    height:900px;
+   
+        width: 100%;
+  background-color:AntiqueWhite;
+   
+}
+
+p{
+  font-size:25px;
+  background-color:DarkSalmon;
+ 
+}
+span{
+  font-size:25px;
+}
+h2{
+  font-size:30px;
+  border-style:solid;
+  border-color:DarkSalmon;
+}
+.menu {
+    position: fixed;
+    background-color:white;
+    width:100%;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    
+}
+
+.li {
+    font-size: 30px;
+    display:inline;
+
+    font-family: monospace;
+    padding-right: 25px;
+   
+}
+#nobita{
+  width:100px;
+  height:100px;
+}
+#section3{
+  background-color:MistyRose;
+  height:2000px;
+  width: 100%;
+   overflow: hidden;
+}
+#h222{
+  border-style:dashed;
+  border-color:Brown;
+}
+#section4{
+  background-color:AntiqueWhite;
+  height:1800px;
+  width: 100%;
+}
+#p222{
+  border-style:dashed;
+  
+}
+#section5{
+  height:500px;
+  width:100%;
+  background-color:MistyRose;
+}
+.contact_1{
+  font-size:30px;
+}
+.li:hover{
+  font-size:50px;
+  background-color:yellow;
+}
+#anchor{
+  font-size:30px;
+}
+#anchor:hover{
+  background-color:yellow;
+  font-size:40px;
+}
